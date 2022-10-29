@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HinaYasin 
-- 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Python Developers
+- 👀 I’m interested in ... MERN Stack Developer
+- 🌱 I’m currently learning ... MERN Stack Developer
+- 💞️ I’m looking to collaborate on ... MERN Stack Developer
 - 📫 How to reach me ... HinaYasin
 
 <!---
